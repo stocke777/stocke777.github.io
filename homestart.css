@@ -1,10 +1,11 @@
-.button {position: absolute;
+.button {
+  position: absolute;
   top: 59%;
   left: 42%;
   display: flex;
   justify-content: center;
   align-items: center;
-  flex-direction: column;%;
+  flex-direction: column;
   background-color: #319ef4; /* Blue */
   border: none;
   outline: none;
