@@ -28,7 +28,7 @@
 
 body{
   margin: 0px;
-  background-image: url("../pic/anon.png");
+  background-image: url("anon.png");
   background-repeat: no-repeat;
   background-size: 100% 750px;
 }
